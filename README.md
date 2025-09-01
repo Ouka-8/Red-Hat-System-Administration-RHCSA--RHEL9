@@ -1,7 +1,7 @@
 # Red-Hat-System-Administration-RHCSA--RHEL9
 Hands-on labs and notes from my Red Hat Certified System Administrator (RHCSA) study journey. Hands-on labs &amp; study notes following Asghar Ghori’s RHCSA (RHEL 9) book.      
 
-# RHCSA (RHEL 9) – Labs & Notes (Based on Asghar Ghori)
+# RHCSA (RHEL 9) – Labs & Notes
 
 This repository tracks my RHCSA preparation using **Asghar Ghori’s book**.  
 It’s organized chapter-by-chapter with **hands-on labs**, **commands**, and **validation outputs**.
